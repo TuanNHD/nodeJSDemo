@@ -1,0 +1,28 @@
+{
+  "name": "node-backend-demo",
+  "version": "1.0.0",
+  "description": "use nodeJs for backend",
+  "main": "demoNodejs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node demoNodejs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuanNHD/nodeJSDemo.git#nodeJsdemoTest.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "tuannhd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TuanNHD/nodeJSDemo/issues"
+  },
+  "homepage": "https://github.com/TuanNHD/nodeJSDemo/tree/nodeJsdemoTest.git#readme",
+  "dependencies": {
+    "exact": "^0.8.0",
+    "express": "^4.19.2"
+  }
+}
